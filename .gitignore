@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# Java
+*.class
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Jib
+jib-cache/
+
+# OS
+.DS_Store
+Thumbs.db
