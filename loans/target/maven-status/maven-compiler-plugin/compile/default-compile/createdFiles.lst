@@ -11,6 +11,7 @@ com\bank\loans\entity\BaseEntity.class
 com\bank\loans\exception\LoanAlreadyExistsException.class
 com\bank\loans\service\impl\LoansServiceImpl.class
 com\bank\loans\dto\ErrorResponseDto.class
+com\bank\loans\dto\LoansContactInfoDto.class
 com\bank\loans\dto\ResponseDto.class
 com\bank\loans\service\ILoansService.class
 com\bank\loans\controller\LoansController.class

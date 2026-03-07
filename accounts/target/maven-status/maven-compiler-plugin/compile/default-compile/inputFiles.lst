@@ -2,6 +2,7 @@ E:\6 month challange\Project\Mircorservice\Banking_Microservice\accounts\src\mai
 E:\6 month challange\Project\Mircorservice\Banking_Microservice\accounts\src\main\java\com\bank\accounts\audit\AuditAwareImpl.java
 E:\6 month challange\Project\Mircorservice\Banking_Microservice\accounts\src\main\java\com\bank\accounts\constants\AccountsConstants.java
 E:\6 month challange\Project\Mircorservice\Banking_Microservice\accounts\src\main\java\com\bank\accounts\controller\AccountsController.java
+E:\6 month challange\Project\Mircorservice\Banking_Microservice\accounts\src\main\java\com\bank\accounts\dto\AccountsContactInfoDto.java
 E:\6 month challange\Project\Mircorservice\Banking_Microservice\accounts\src\main\java\com\bank\accounts\dto\AccountsDto.java
 E:\6 month challange\Project\Mircorservice\Banking_Microservice\accounts\src\main\java\com\bank\accounts\dto\CustomerDto.java
 E:\6 month challange\Project\Mircorservice\Banking_Microservice\accounts\src\main\java\com\bank\accounts\dto\ErrorResponseDto.java
