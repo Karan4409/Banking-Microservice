@@ -46,6 +46,7 @@ public class LoansController {
     @Autowired
     private LoansContactInfoDto loansContactInfoDto;
 
+    @Autowired
     private ILoansService iLoansService;
 
     @Operation(
