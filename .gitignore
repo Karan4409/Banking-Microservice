@@ -6,8 +6,7 @@ target/
 *.log
 
 # IntelliJ
-.idea/
-*.iml
+
 out/
 
 # Jib
